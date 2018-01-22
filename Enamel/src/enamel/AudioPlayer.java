@@ -9,7 +9,8 @@ public class AudioPlayer extends Player {
 
 	@Override
 	public void refresh() {
-		// TODO Auto-generated method stub
+		// sup dude this is a change in the project
+		// due is to dude and dude is to be a due of dudeship
 		
 	}
 
